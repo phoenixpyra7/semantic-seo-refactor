@@ -12,4 +12,4 @@ Added semantic elements to provide a clear layout. To follow a logical structure
 
 ## Link 
 
-![Live URL] (https://github.com/phoenixpyra7/semantic-seo-refactor) 
+![Live URL] (https://phoenixpyra7.github.io/semantic-seo-refactor/)
