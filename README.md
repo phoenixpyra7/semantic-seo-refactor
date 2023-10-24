@@ -2,7 +2,7 @@
 
 ## Description
 
-I added semantic elements to provide a clear layout of the webpage. In order to follow a logical structure, I wanted to ensure all image sources were listed within the index file. I ensured all image sources contained a description for accessibility. I checked that all headings fell in order. I updated the title to highlight the company name. I applied the Scout Rule.
+Added semantic elements to provide a clear layout. To follow a logical structure, ensured all image sources were listed within the index file. Made certain image sources contained are accessible. Checked all headings fell in order. Updated title to highlight the company name. Applied the Scout Rule.
 
 ## Screenshot
 
