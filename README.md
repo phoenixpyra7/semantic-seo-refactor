@@ -7,3 +7,9 @@ Added semantic elements to provide a clear layout. To follow a logical structure
 ## Screenshot
 
 ![Screenshot of SEO refactor] ()
+
+
+
+## Link 
+
+![Live URL] (https://github.com/phoenixpyra7/semantic-seo-refactor) 
