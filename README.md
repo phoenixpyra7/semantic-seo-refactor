@@ -6,7 +6,7 @@ Added semantic elements to provide a clear layout. To follow a logical structure
 
 ## Screenshot
 
-![Screenshot of SEO refactor] ![Alt text](image-1.png)
+![Screenshot of SEO refactor] (https://github.com/phoenixpyra7/semantic-seo-refactor/blob/main/Screenshots/image.png?raw=true)
 
 
 
