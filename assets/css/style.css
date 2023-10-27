@@ -150,7 +150,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-footer h2 {
+/*reverted to original correction, changed h2 to h4 to match sequencial order*/
+footer h4 {
     font-size: 20px;
 }
