@@ -6,7 +6,7 @@ Added semantic elements to provide a clear layout. To follow a logical structure
 
 ## Screenshot
 
-![Screenshot of SEO refactor] (https://tinyurl.com/ypsh4zfm)
+![Screenshot of SEO refactor] (./Screenshots/image.png)
 
 
 
