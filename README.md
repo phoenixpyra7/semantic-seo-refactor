@@ -2,7 +2,7 @@
 
 ## Description
 
-Added semantic elements to provide a clear layout. To follow a logical structure, ensured all image sources were listed within the index file. Made certain image sources contained are accessible. Checked all headings fell in order. Updated title to highlight the company name. Applied the Scout Rule. 
+This is a refactored website for the Horiseon Marketing firm. Content code has been organized, consolidated, and updated to meet accessability standards.
 
 ## Screenshot
 
